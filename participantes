@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Participantes Promobahia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="logo-pb-fondo-blanco.png" alt="Promobahia" id="logo">
+        <h1>Listado de Participantes</h1>
+        <p>Aquí puedes verificar tu nombre y tus números asociados.</p>
+    </header>
+
+    <section id="lista">
+        <table id="tabla-participantes">
+            <thead>
+                <tr><th>Nombre</th><th>Tickets</th><th>Números</th></tr>
+            </thead>
+            <tbody id="cuerpo-tabla"></tbody>
+        </table>
+    </section>
+
+    <script>
+        // Este script carga los mismos datos del JSON
+        fetch('datos.json')
+            .then(response => response.json())
+            .then(data => {
+                const tbody = document.getElementById('cuerpo-tabla');
+                data.forEach(p => {
+                    tbody.innerHTML += `<tr><td>${p.nombre}</td><td>${p.tickets}</td><td>${p.numeros.join(', ')}</td></tr>`;
+                });
+            });
+    </script>
+</body>
+</html>
