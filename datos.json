@@ -1,1132 +1,2273 @@
 [
     {
         "nombre": "Alan Reyes Álvarez",
-        "numeros": [717, 718, 719],
+        "numeros": [40, 39, 38],
         "tickets": 3
     },
     {
         "nombre": "Alejandra Astorga",
-        "numeros": [462, 463],
+        "numeros": [295, 294],
         "tickets": 2
     },
     {
         "nombre": "Alejandra Correa Llantén",
-        "numeros": [684, 685, 686, 687, 688],
+        "numeros": [73, 72, 71, 70, 69],
         "tickets": 5
     },
     {
         "nombre": "Alejandra Pilar Gonzalez Cornejo",
-        "numeros": [141, 142, 181, 182],
+        "numeros": [616, 615, 576, 575],
         "tickets": 4
     },
     {
         "nombre": "Alejandro Oyarce",
-        "numeros": [682, 683],
+        "numeros": [75, 74],
         "tickets": 2
     },
     {
         "nombre": "Alfredo Bravo Ramos",
-        "numeros": [1, 2, 3, 4, 5, 6, 7, 8],
+        "numeros": [756, 755, 754, 753, 752, 751, 750, 749],
         "tickets": 8
     },
     {
         "nombre": "Amanda Plaza Valdés",
-        "numeros": [410, 411, 412],
+        "numeros": [347, 346, 345],
         "tickets": 3
     },
     {
         "nombre": "Angelo Grateron",
-        "numeros": [21, 22, 23, 24],
+        "numeros": [736, 735, 734, 733],
         "tickets": 4
     },
     {
         "nombre": "Angélica Merino Salinas",
-        "numeros": [284, 285, 286],
+        "numeros": [473, 472, 471],
         "tickets": 3
     },
     {
         "nombre": "Antonella Orellana",
-        "numeros": [18],
+        "numeros": [739],
         "tickets": 1
     },
     {
         "nombre": "Antonia Carvajal Ahumada",
-        "numeros": [694, 695, 696, 697, 698],
+        "numeros": [63, 62, 61, 60, 59],
         "tickets": 5
     },
     {
         "nombre": "Antonio Acuña",
-        "numeros": [201, 202, 203, 204, 205, 206],
+        "numeros": [556, 555, 554, 553, 552, 551],
         "tickets": 6
     },
     {
         "nombre": "Antonio Garrido",
-        "numeros": [650, 651, 652],
+        "numeros": [107, 106, 105],
         "tickets": 3
     },
     {
         "nombre": "Anyela Navarro Rojas",
-        "numeros": [607, 608],
+        "numeros": [150, 149],
         "tickets": 2
     },
     {
         "nombre": "Anyello Araya",
-        "numeros": [337, 338, 339, 340, 341, 342],
+        "numeros": [420, 419, 418, 417, 416, 415],
         "tickets": 6
     },
     {
         "nombre": "Barbara Wassenne Olmos",
-        "numeros": [358],
+        "numeros": [399],
         "tickets": 1
     },
     {
         "nombre": "Bejasmin SepulvedA",
-        "numeros": [66, 67, 68, 69, 526, 527],
+        "numeros": [691, 690, 689, 688, 231, 230],
         "tickets": 6
     },
     {
         "nombre": "Benjamin Alfaro",
-        "numeros": [699, 700],
+        "numeros": [58, 57],
         "tickets": 2
     },
     {
         "nombre": "Boris Saez",
-        "numeros": [269, 270, 271],
+        "numeros": [488, 487, 486],
         "tickets": 3
     },
     {
         "nombre": "Cami Vilches",
-        "numeros": [378, 379, 380],
+        "numeros": [379, 378, 377],
         "tickets": 3
     },
     {
         "nombre": "Camila Castañeda",
-        "numeros": [703, 704, 705, 706, 707],
+        "numeros": [54, 53, 52, 51, 50],
         "tickets": 5
     },
     {
         "nombre": "Carla Silva González",
-        "numeros": [278, 279, 280, 281, 282, 283],
+        "numeros": [479, 478, 477, 476, 475, 474],
         "tickets": 6
     },
     {
         "nombre": "Carlos Arredondo Otárola",
-        "numeros": [63, 64, 65],
+        "numeros": [694, 693, 692],
         "tickets": 3
     },
     {
         "nombre": "Carlos Parra vidal",
-        "numeros": [496, 497],
+        "numeros": [261, 260],
         "tickets": 2
     },
     {
         "nombre": "Carlos Sanchez",
-        "numeros": [655, 656, 657, 658, 659],
+        "numeros": [102, 101, 100, 99, 98],
         "tickets": 5
     },
     {
         "nombre": "Carlos Sanzana cid",
-        "numeros": [171, 172, 173, 174, 175, 176],
+        "numeros": [586, 585, 584, 583, 582, 581],
         "tickets": 6
     },
     {
         "nombre": "Carlos Woldarsky Cea",
-        "numeros": [594, 595],
+        "numeros": [163, 162],
         "tickets": 2
     },
     {
         "nombre": "Catalina Bustos",
-        "numeros": [352, 353, 354, 355, 356, 357],
+        "numeros": [405, 404, 403, 402, 401, 400],
         "tickets": 6
     },
     {
         "nombre": "Christian Villanueva",
-        "numeros": [481, 482],
+        "numeros": [276, 275],
         "tickets": 2
     },
     {
         "nombre": "Cindy Rojas carrasco",
-        "numeros": [116, 117, 118, 119],
+        "numeros": [641, 640, 639, 638],
         "tickets": 4
     },
     {
         "nombre": "Cindy farias Farias yanez",
-        "numeros": [564, 565],
+        "numeros": [193, 192],
         "tickets": 2
     },
     {
         "nombre": "Claudia Barrios Giraudo",
-        "numeros": [369, 370],
+        "numeros": [388, 387],
         "tickets": 2
     },
     {
         "nombre": "Claudia Muñoz Castro",
-        "numeros": [676, 677],
+        "numeros": [81, 80],
         "tickets": 2
     },
     {
         "nombre": "Claudia Urrea",
-        "numeros": [367, 368],
+        "numeros": [390, 389],
         "tickets": 2
     },
     {
         "nombre": "Claudio Heredia morales",
-        "numeros": [613, 614],
+        "numeros": [144, 143],
         "tickets": 2
     },
     {
         "nombre": "Consuelo schnake schneider",
-        "numeros": [548, 549],
+        "numeros": [209, 208],
         "tickets": 2
     },
     {
         "nombre": "Cristhian Sepúlveda",
-        "numeros": [48],
+        "numeros": [709],
         "tickets": 1
     },
     {
         "nombre": "Cristian Astorga Aburto",
-        "numeros": [455, 456],
+        "numeros": [302, 301],
         "tickets": 2
     },
     {
         "nombre": "Cristina Ojeda",
-        "numeros": [236, 237, 238],
+        "numeros": [521, 520, 519],
         "tickets": 3
     },
     {
         "nombre": "Cristóbal Abarza fuentealba",
-        "numeros": [523, 524, 525],
+        "numeros": [234, 233, 232],
         "tickets": 3
     },
     {
         "nombre": "Daniel Alejandro Zúñiga Núñez",
-        "numeros": [634, 635],
+        "numeros": [123, 122],
         "tickets": 2
     },
     {
         "nombre": "Daniel Salazar Gonzalez",
-        "numeros": [287, 288, 289, 290, 291, 292],
+        "numeros": [470, 469, 468, 467, 466, 465],
         "tickets": 6
     },
     {
         "nombre": "Daniel Ulloa",
-        "numeros": [343, 344, 345, 346, 347, 348],
+        "numeros": [414, 413, 412, 411, 410, 409],
         "tickets": 6
     },
     {
         "nombre": "Daniel elias Lopez reyes",
-        "numeros": [143, 144],
+        "numeros": [614, 613],
         "tickets": 2
     },
     {
         "nombre": "Daniela López Flores",
-        "numeros": [199, 200],
+        "numeros": [558, 557],
         "tickets": 2
     },
     {
         "nombre": "Danilo Altamirano Gallardo",
-        "numeros": [396, 397],
+        "numeros": [361, 360],
         "tickets": 2
     },
     {
         "nombre": "Danny La Rosa",
-        "numeros": [538, 539, 540],
+        "numeros": [219, 218, 217],
         "tickets": 3
     },
     {
         "nombre": "David Levin",
-        "numeros": [504, 505, 506, 507, 508],
+        "numeros": [253, 252, 251, 250, 249],
         "tickets": 5
     },
     {
         "nombre": "David Ortiz Silva",
-        "numeros": [15, 16, 17],
+        "numeros": [742, 741, 740],
         "tickets": 3
     },
     {
         "nombre": "David Ortiz sliva",
-        "numeros": [334, 335, 336],
+        "numeros": [423, 422, 421],
         "tickets": 3
     },
     {
         "nombre": "David Rojas",
-        "numeros": [747, 748, 749, 750, 751, 752, 753, 754, 755],
+        "numeros": [10, 9, 8, 7, 6, 5, 4, 3, 2],
         "tickets": 9
     },
     {
         "nombre": "Diego ignacio Navarro araya",
-        "numeros": [457, 458],
+        "numeros": [300, 299],
         "tickets": 2
     },
     {
         "nombre": "Edith Leris",
-        "numeros": [224, 225, 510, 511, 611, 612],
+        "numeros": [533, 532, 247, 246, 146, 145],
         "tickets": 6
     },
     {
         "nombre": "Edith Matthei Matthei Benavente",
-        "numeros": [665, 666, 667],
+        "numeros": [92, 91, 90],
         "tickets": 3
     },
     {
         "nombre": "Eduardo Carrasco",
-        "numeros": [407, 408, 409],
+        "numeros": [350, 349, 348],
         "tickets": 3
     },
     {
         "nombre": "Elio Leal Socorro",
-        "numeros": [311, 312, 313, 314, 315, 316],
+        "numeros": [446, 445, 444, 443, 442, 441],
         "tickets": 6
     },
     {
         "nombre": "Elizabeth de Lourdes Rivero Canto",
-        "numeros": [349, 350, 351],
+        "numeros": [408, 407, 406],
         "tickets": 3
     },
     {
         "nombre": "Elías Tapia Aliste",
-        "numeros": [127, 128],
+        "numeros": [630, 629],
         "tickets": 2
     },
     {
         "nombre": "Emanuel De Freitas",
-        "numeros": [213, 214, 215],
+        "numeros": [544, 543, 542],
         "tickets": 3
     },
     {
         "nombre": "Erick Riera",
-        "numeros": [601, 602, 603],
+        "numeros": [156, 155, 154],
         "tickets": 3
     },
     {
         "nombre": "Essio Sanhueza leal",
-        "numeros": [320, 321, 322, 323, 324, 325],
+        "numeros": [437, 436, 435, 434, 433, 432],
         "tickets": 6
     },
     {
         "nombre": "Estefania Tapia orrego",
-        "numeros": [103, 104, 105, 106, 107, 108, 109],
+        "numeros": [654, 653, 652, 651, 650, 649, 648],
         "tickets": 7
     },
     {
         "nombre": "Estefany Contreras rojas",
-        "numeros": [99, 100, 101, 102, 151, 152, 153, 154, 155, 156],
+        "numeros": [658, 657, 656, 655, 606, 605, 604, 603, 602, 601],
         "tickets": 10
     },
     {
         "nombre": "Euge Mellado perez",
-        "numeros": [712, 713, 714],
+        "numeros": [45, 44, 43],
         "tickets": 3
     },
     {
         "nombre": "Eugenia GAUNA",
-        "numeros": [515, 516, 517, 518, 519],
+        "numeros": [242, 241, 240, 239, 238],
         "tickets": 5
     },
     {
         "nombre": "Evelyn Pinilla torres",
-        "numeros": [216, 217, 218],
+        "numeros": [541, 540, 539],
         "tickets": 3
     },
     {
         "nombre": "Fabian Gutierrez",
-        "numeros": [596, 597, 598, 599, 600],
+        "numeros": [161, 160, 159, 158, 157],
         "tickets": 5
     },
     {
         "nombre": "Fernanda Del Rosario Tapia Pool",
-        "numeros": [332, 333],
+        "numeros": [425, 424],
         "tickets": 2
     },
     {
         "nombre": "Fernando Thjoernelund",
-        "numeros": [678, 679],
+        "numeros": [79, 78],
         "tickets": 2
     },
     {
         "nombre": "Francisco Cortés torrejón",
-        "numeros": [317, 318, 319],
+        "numeros": [440, 439, 438],
         "tickets": 3
     },
     {
         "nombre": "Francisco Javier Santander Barrientos",
-        "numeros": [528, 529, 530],
+        "numeros": [229, 228, 227],
         "tickets": 3
     },
     {
         "nombre": "Francisco pechunante jara",
-        "numeros": [715, 716],
+        "numeros": [42, 41],
         "tickets": 2
     },
     {
         "nombre": "GERMAN LAVIN",
-        "numeros": [49, 50, 51, 52, 53, 54, 55],
+        "numeros": [708, 707, 706, 705, 704, 703, 702],
         "tickets": 7
     },
     {
         "nombre": "Georgina Tapia Briceño",
-        "numeros": [642, 643, 644],
+        "numeros": [115, 114, 113],
         "tickets": 3
     },
     {
         "nombre": "German tabilo barraza",
-        "numeros": [70, 71, 72, 73, 74, 75, 76],
+        "numeros": [687, 686, 685, 684, 683, 682, 681],
         "tickets": 7
     },
     {
         "nombre": "Giovanni Ortega herrera",
-        "numeros": [113, 114, 115],
+        "numeros": [644, 643, 642],
         "tickets": 3
     },
     {
         "nombre": "Gissella Castillo",
-        "numeros": [371, 372],
+        "numeros": [386, 385],
         "tickets": 2
     },
     {
         "nombre": "Helmut Miranda Brandt",
-        "numeros": [253, 254],
+        "numeros": [504, 503],
         "tickets": 2
     },
     {
         "nombre": "Hernan Montalva",
-        "numeros": [13, 14],
+        "numeros": [744, 743],
         "tickets": 2
     },
     {
         "nombre": "Hugo Héctor Sandoval Díaz",
-        "numeros": [359, 360],
+        "numeros": [398, 397],
         "tickets": 2
     },
     {
         "nombre": "Hugo Sandoval Díaz",
-        "numeros": [234, 235],
+        "numeros": [523, 522],
         "tickets": 2
     },
     {
         "nombre": "Héctor Santander Donoso",
-        "numeros": [129, 130, 131, 132, 133, 134],
+        "numeros": [628, 627, 626, 625, 624, 623],
         "tickets": 6
     },
     {
         "nombre": "Idán Plaza Rojas",
-        "numeros": [483, 484, 485],
+        "numeros": [274, 273, 272],
         "tickets": 3
     },
     {
         "nombre": "Isabel Haydar Henry",
-        "numeros": [448, 449],
+        "numeros": [309, 308],
         "tickets": 2
     },
     {
         "nombre": "Ivar Mauricio Molina Rebolledo",
-        "numeros": [558, 559, 560],
+        "numeros": [199, 198, 197],
         "tickets": 3
     },
     {
         "nombre": "Ivonne Moreno",
-        "numeros": [89, 90, 91],
+        "numeros": [668, 667, 666],
         "tickets": 3
     },
     {
         "nombre": "JOEL DALPONTE",
-        "numeros": [226, 227],
+        "numeros": [531, 530],
         "tickets": 2
     },
     {
         "nombre": "JORGE COFRE ARANCIBIA",
-        "numeros": [219, 220],
+        "numeros": [538, 537],
         "tickets": 2
     },
     {
         "nombre": "JOSE VELIZ",
-        "numeros": [419, 420, 421],
+        "numeros": [338, 337, 336],
         "tickets": 3
     },
     {
         "nombre": "Jadert Jaimes",
-        "numeros": [77, 78, 79, 80, 81],
+        "numeros": [680, 679, 678, 677, 676],
         "tickets": 5
     },
     {
         "nombre": "Jaime Arriola",
-        "numeros": [450, 451, 452],
+        "numeros": [307, 306, 305],
         "tickets": 3
     },
     {
         "nombre": "Jaime Barahona",
-        "numeros": [488, 489, 490],
+        "numeros": [269, 268, 267],
         "tickets": 3
     },
     {
         "nombre": "Jaime Zambrano",
-        "numeros": [221, 222, 223],
+        "numeros": [536, 535, 534],
         "tickets": 3
     },
     {
         "nombre": "Javiera Guzmán Jara",
-        "numeros": [163, 164],
+        "numeros": [594, 593],
         "tickets": 2
     },
     {
         "nombre": "Javiera Pulgar",
-        "numeros": [381, 382, 383, 384, 385, 386, 387, 388, 389, 390],
+        "numeros": [376, 375, 374, 373, 372, 371, 370, 369, 368, 367],
         "tickets": 10
     },
     {
         "nombre": "Jefferson ruz",
-        "numeros": [520, 521, 522],
+        "numeros": [237, 236, 235],
         "tickets": 3
     },
     {
         "nombre": "Jessica Barraza Jofré",
-        "numeros": [494, 495],
+        "numeros": [263, 262],
         "tickets": 2
     },
     {
         "nombre": "Jessica Rojas",
-        "numeros": [308, 309, 310],
+        "numeros": [449, 448, 447],
         "tickets": 3
     },
     {
         "nombre": "Jimmy Jimenez",
-        "numeros": [550, 551, 552],
+        "numeros": [207, 206, 205],
         "tickets": 3
     },
     {
         "nombre": "Joaquin Toledo Pino",
-        "numeros": [692, 693],
+        "numeros": [65, 64],
         "tickets": 2
     },
     {
         "nombre": "Jocelyn Guajardo",
-        "numeros": [735, 736],
+        "numeros": [22, 21],
         "tickets": 2
     },
     {
         "nombre": "Jocelyn Lisboa Gallardo",
-        "numeros": [730, 731],
+        "numeros": [27, 26],
         "tickets": 2
     },
     {
         "nombre": "John Joui",
-        "numeros": [82, 83, 84, 85, 86, 87, 88],
+        "numeros": [675, 674, 673, 672, 671, 670, 669],
         "tickets": 7
     },
     {
         "nombre": "Jonathan Perucich contador",
-        "numeros": [670, 671, 672],
+        "numeros": [87, 86, 85],
         "tickets": 3
     },
     {
         "nombre": "Jonny Aceituno Alvarez",
-        "numeros": [434, 435, 436, 437, 438],
+        "numeros": [323, 322, 321, 320, 319],
         "tickets": 5
     },
     {
         "nombre": "Jorge Aedo",
-        "numeros": [647, 648, 649],
+        "numeros": [110, 109, 108],
         "tickets": 3
     },
     {
         "nombre": "Jorge Antonio Ramírez Oyarce",
-        "numeros": [329, 330, 331],
+        "numeros": [428, 427, 426],
         "tickets": 3
     },
     {
         "nombre": "Jorge Botau Mancilla",
-        "numeros": [398, 399, 400],
+        "numeros": [359, 358, 357],
         "tickets": 3
     },
     {
         "nombre": "Jorge Castillo flandez",
-        "numeros": [250, 251, 252],
+        "numeros": [507, 506, 505],
         "tickets": 3
     },
     {
         "nombre": "Jorge Saldias",
-        "numeros": [663, 664],
+        "numeros": [94, 93],
         "tickets": 2
     },
     {
         "nombre": "Josday Ramos",
-        "numeros": [668, 669],
+        "numeros": [89, 88],
         "tickets": 2
     },
     {
         "nombre": "Jose Alberto Cubillan",
-        "numeros": [40],
+        "numeros": [717],
         "tickets": 1
     },
     {
         "nombre": "Jose Farias",
-        "numeros": [583, 584],
+        "numeros": [174, 173],
         "tickets": 2
     },
     {
         "nombre": "Jose Fernández Salazar",
-        "numeros": [149, 150],
+        "numeros": [608, 607],
         "tickets": 2
     },
     {
         "nombre": "Jose Jara Santi",
-        "numeros": [25, 26],
+        "numeros": [732, 731],
         "tickets": 2
     },
     {
         "nombre": "Jose Naranjo Villanueva",
-        "numeros": [618, 619, 620, 621, 622],
+        "numeros": [139, 138, 137, 136, 135],
         "tickets": 5
     },
     {
-        "nombre": "Josday Ramos",
-        "numeros": [668, 669],
-        "tickets": 2
-    },
-    {
         "nombre": "Josue Gonzalez cazas",
-        "numeros": [689, 690, 691],
+        "numeros": [68, 67, 66],
         "tickets": 3
     },
     {
         "nombre": "Josué González",
-        "numeros": [466, 467, 468, 469, 470],
+        "numeros": [291, 290, 289, 288, 287],
         "tickets": 5
     },
     {
         "nombre": "José Ariel Gárate Alarcón",
-        "numeros": [708, 709],
+        "numeros": [49, 48],
         "tickets": 2
     },
     {
         "nombre": "José David Ordoñez Montenegro",
-        "numeros": [145, 146],
+        "numeros": [612, 611],
         "tickets": 2
     },
     {
         "nombre": "José Luis Pérez Copare",
-        "numeros": [110, 111, 112],
+        "numeros": [647, 646, 645],
         "tickets": 3
     },
     {
         "nombre": "José Naranjo Villanueva",
-        "numeros": [531, 532, 533, 534, 535],
+        "numeros": [226, 225, 224, 223, 222],
         "tickets": 5
     },
     {
         "nombre": "Juan Carlos esquivel c",
-        "numeros": [376, 377],
+        "numeros": [381, 380],
         "tickets": 2
     },
     {
         "nombre": "Juan Luis Arce Chamorro",
-        "numeros": [585, 586, 587, 588, 589],
+        "numeros": [172, 171, 170, 169, 168],
         "tickets": 5
     },
     {
         "nombre": "Juan carlos Rivera velazque",
-        "numeros": [326, 327, 328],
+        "numeros": [431, 430, 429],
         "tickets": 3
     },
     {
         "nombre": "Karina Jensen Riffo",
-        "numeros": [680, 681],
+        "numeros": [77, 76],
         "tickets": 2
     },
     {
         "nombre": "Karla ARANCIBIA Andunce",
-        "numeros": [745],
+        "numeros": [12],
         "tickets": 1
     },
     {
         "nombre": "Karla Arancibia",
-        "numeros": [732, 733, 734],
+        "numeros": [25, 24, 23],
         "tickets": 3
     },
     {
         "nombre": "Karla Obando Delgado",
-        "numeros": [135],
+        "numeros": [622],
         "tickets": 1
     },
     {
         "nombre": "Karla Ortiz",
-        "numeros": [92, 93, 94, 95, 96, 97, 98],
+        "numeros": [665, 664, 663, 662, 661, 660, 659],
         "tickets": 7
     },
     {
         "nombre": "Katerine Espinoza",
-        "numeros": [416, 417],
+        "numeros": [341, 340],
         "tickets": 2
     },
     {
         "nombre": "Katherine Muñoz",
-        "numeros": [255, 256, 257],
+        "numeros": [502, 501, 500],
         "tickets": 3
     },
     {
         "nombre": "Lesster Ramirez fernandez",
-        "numeros": [604, 605, 606],
+        "numeros": [153, 152, 151],
         "tickets": 3
     },
     {
         "nombre": "Lilian Díaz González",
-        "numeros": [373, 374, 375],
+        "numeros": [384, 383, 382],
         "tickets": 3
     },
     {
         "nombre": "Lorena Copa",
-        "numeros": [404, 405, 406],
+        "numeros": [353, 352, 351],
         "tickets": 3
     },
     {
         "nombre": "Loreto Ulriksen",
-        "numeros": [722, 723, 724],
+        "numeros": [35, 34, 33],
         "tickets": 3
     },
     {
         "nombre": "Luis Aguilar del Río",
-        "numeros": [541, 542],
+        "numeros": [216, 215],
         "tickets": 2
     },
     {
         "nombre": "Luis Aravena",
-        "numeros": [418],
+        "numeros": [339],
         "tickets": 1
     },
     {
         "nombre": "Luis Duarte Macaya",
-        "numeros": [364, 365, 366],
+        "numeros": [393, 392, 391],
         "tickets": 3
     },
     {
         "nombre": "Luis Fernando Tapia Gonzalez",
-        "numeros": [239, 240],
+        "numeros": [518, 517],
         "tickets": 2
     },
     {
         "nombre": "MARIA JOSE SILVERIA REYES",
-        "numeros": [241, 242, 243],
+        "numeros": [516, 515, 514],
         "tickets": 3
     },
     {
         "nombre": "MAYKEL PALMA",
-        "numeros": [207, 208, 209, 210, 211, 212],
+        "numeros": [550, 549, 548, 547, 546, 545],
         "tickets": 6
     },
     {
         "nombre": "Macarena Colosia Diaz",
-        "numeros": [673, 674, 675],
+        "numeros": [84, 83, 82],
         "tickets": 3
     },
     {
         "nombre": "Macarena Hernandez",
-        "numeros": [464, 465],
+        "numeros": [293, 292],
         "tickets": 2
     },
     {
         "nombre": "Manuel Cartajena",
-        "numeros": [576, 577, 578, 579, 580, 660, 661, 662],
+        "numeros": [181, 180, 179, 178, 177, 97, 96, 95],
         "tickets": 8
     },
     {
         "nombre": "Manuel Espinoza pino",
-        "numeros": [428, 429],
+        "numeros": [329, 328],
         "tickets": 2
     },
     {
         "nombre": "Marcel Andres Gallegos Muñoz",
-        "numeros": [263, 264, 265, 266, 267, 268],
+        "numeros": [494, 493, 492, 491, 490, 489],
         "tickets": 6
     },
     {
         "nombre": "Marcela Carranza",
-        "numeros": [746],
+        "numeros": [11],
         "tickets": 1
     },
     {
         "nombre": "Marcela Caruz",
-        "numeros": [178, 179, 180],
+        "numeros": [579, 578, 577],
         "tickets": 3
     },
     {
         "nombre": "Marcela Doris Cavieres Carranza",
-        "numeros": [632, 633],
+        "numeros": [125, 124],
         "tickets": 2
     },
     {
         "nombre": "Marcelina Villalobos",
-        "numeros": [37, 38, 39],
+        "numeros": [720, 719, 718],
         "tickets": 3
     },
     {
         "nombre": "Maria Angelica Mujica Undurraga",
-        "numeros": [459, 460, 461, 509, 512, 513, 514, 627, 628],
+        "numeros": [298, 297, 296, 248, 245, 244, 243, 130, 129],
         "tickets": 9
     },
     {
         "nombre": "Maria Jesus Ossandón Muñoz",
-        "numeros": [183, 184],
+        "numeros": [574, 573],
         "tickets": 2
     },
     {
         "nombre": "Maria López Rodríguez",
-        "numeros": [443, 444, 445],
+        "numeros": [314, 313, 312],
         "tickets": 3
     },
     {
         "nombre": "Marianne Luhr",
-        "numeros": [120, 121, 122, 123, 124, 125, 126],
+        "numeros": [637, 636, 635, 634, 633, 632, 631],
         "tickets": 7
     },
     {
         "nombre": "Mariel Olivares",
-        "numeros": [453, 454],
+        "numeros": [304, 303],
         "tickets": 2
     },
     {
         "nombre": "Mario Cerda Aqueveque",
-        "numeros": [41, 42, 43, 44, 45, 46, 47],
+        "numeros": [730, 729, 728, 727, 726, 725, 724],
         "tickets": 7
     },
     {
         "nombre": "Mario Mena",
-        "numeros": [177],
+        "numeros": [164],
         "tickets": 1
     },
     {
         "nombre": "Mario Rosales",
-        "numeros": [424, 425],
+        "numeros": [423, 422],
         "tickets": 2
     },
     {
         "nombre": "Mario alfredo Chavez fuentes",
-        "numeros": [501, 502, 503],
+        "numeros": [256, 255, 254],
         "tickets": 3
     },
     {
         "nombre": "María Angélica Mujica MUJICA UNDURRAGA",
-        "numeros": [136, 137],
+        "numeros": [621, 620],
         "tickets": 2
     },
     {
         "nombre": "María Elena Soto Santander",
-        "numeros": [19, 20],
+        "numeros": [746, 745],
         "tickets": 2
     },
     {
         "nombre": "María Valeria López",
-        "numeros": [478, 479, 480],
+        "numeros": [286, 285, 284],
         "tickets": 3
     },
     {
         "nombre": "Mauricio Ortiz Viveros",
-        "numeros": [626],
+        "numeros": [128],
         "tickets": 1
     },
     {
         "nombre": "Mauro Fantin",
-        "numeros": [430, 431],
+        "numeros": [335, 334],
         "tickets": 2
     },
     {
         "nombre": "Miguel Hernandez",
-        "numeros": [394, 395],
+        "numeros": [366, 365],
         "tickets": 2
     },
     {
         "nombre": "Morelba Velasquez Arismendi",
-        "numeros": [34, 35, 36],
+        "numeros": [748, 747, 746],
         "tickets": 3
     },
     {
         "nombre": "Nataly Manzano Muñoz",
-        "numeros": [228, 229, 230, 231, 232, 233, 569, 570, 571, 572, 573],
+        "numeros": [572, 571, 570, 569, 568, 567, 214, 213, 212, 211, 210],
         "tickets": 11
     },
     {
         "nombre": "Nelson Urcia",
-        "numeros": [471, 472],
+        "numeros": [283, 282],
         "tickets": 2
     },
     {
         "nombre": "Nicolas Díaz Quiroz",
-        "numeros": [623, 624, 625],
+        "numeros": [133, 132, 131],
         "tickets": 3
     },
     {
         "nombre": "Nicolas Vargas",
-        "numeros": [574, 575],
+        "numeros": [570, 569],
         "tickets": 2
     },
     {
         "nombre": "Nicole Romero Chau",
-        "numeros": [260, 261, 262],
+        "numeros": [497, 496, 495],
         "tickets": 3
     },
     {
         "nombre": "OSCAR Edding Ramirez",
-        "numeros": [653, 654],
+        "numeros": [104, 103],
         "tickets": 2
     },
     {
         "nombre": "Oliver Calfulef Cortes",
-        "numeros": [441, 442],
+        "numeros": [316, 315],
         "tickets": 2
     },
     {
         "nombre": "Oscar Andres Orellana Quintallana",
-        "numeros": [590, 591, 592, 593],
+        "numeros": [167, 166, 165, 164],
         "tickets": 4
     },
     {
         "nombre": "Osvaldo Rodriguez",
-        "numeros": [645, 646],
+        "numeros": [112, 111],
         "tickets": 2
     },
     {
         "nombre": "Otilio Castro Berrios",
-        "numeros": [138, 139, 140],
+        "numeros": [620, 619, 618],
         "tickets": 3
     },
     {
         "nombre": "Pablo Cortes Ramos",
-        "numeros": [741, 742],
+        "numeros": [19, 18],
         "tickets": 2
     },
     {
         "nombre": "Pablo Piña Donoso",
-        "numeros": [728, 729],
+        "numeros": [73, 72],
         "tickets": 2
     },
     {
         "nombre": "Pamela Garrido Saavedra",
-        "numeros": [543, 544, 545],
+        "numeros": [204, 203, 202],
         "tickets": 3
     },
     {
         "nombre": "Paola Lucero Lepez",
-        "numeros": [197, 198],
+        "numeros": [559, 560],
         "tickets": 2
     },
     {
         "nombre": "Patricio Moya Morales",
-        "numeros": [258, 259],
+        "numeros": [499, 498],
         "tickets": 2
     },
     {
         "nombre": "Patricio Parada Bocaz",
-        "numeros": [636, 637, 638],
+        "numeros": [122, 121, 120],
         "tickets": 3
     },
     {
         "nombre": "Patricio Vera",
-        "numeros": [272, 273, 274, 275, 276, 277],
+        "numeros": [485, 484, 483, 482, 481, 480],
         "tickets": 6
     },
     {
         "nombre": "Patricio Yanten",
-        "numeros": [710, 711],
+        "numeros": [47, 46],
         "tickets": 2
     },
     {
         "nombre": "Paulina Araneda",
-        "numeros": [738, 739, 740],
+        "numeros": [16, 15, 14],
         "tickets": 3
     },
     {
         "nombre": "Pedro Enrique Ortiz Colque",
-        "numeros": [293, 294, 295],
+        "numeros": [464, 463, 462],
         "tickets": 3
     },
     {
         "nombre": "Raúl Espinosa Galeas",
-        "numeros": [439, 440],
+        "numeros": [322, 321],
         "tickets": 2
     },
     {
         "nombre": "Roberto Camp",
-        "numeros": [615, 616, 617],
+        "numeros": [142, 141, 140],
         "tickets": 3
     },
     {
         "nombre": "Roberto Fernandez Garcia",
-        "numeros": [191, 192, 193, 194, 195, 196],
+        "numeros": [566, 565, 564, 563, 562, 561],
         "tickets": 6
     },
     {
         "nombre": "Rocio Antonia Vergara Campillay",
-        "numeros": [247, 248, 249],
+        "numeros": [513, 512, 511],
         "tickets": 3
     },
     {
         "nombre": "Rodrigo Collao Labarca",
-        "numeros": [157, 158, 159, 160, 161, 162, 473, 474, 475, 476, 477, 553, 554, 555, 556, 557],
+        "numeros": [591, 590, 589, 588, 587, 259, 258, 257, 240, 239, 238, 237, 236, 177, 176, 175],
         "tickets": 16
     },
     {
         "nombre": "Rodrigo Hurtado pareja",
-        "numeros": [147, 148],
+        "numeros": [610, 609],
         "tickets": 2
     },
     {
         "nombre": "Roger Roger Salazar",
-        "numeros": [756],
+        "numeros": [13],
         "tickets": 1
     },
     {
         "nombre": "Romel Quezada Silva",
-        "numeros": [546, 547],
+        "numeros": [201, 200],
         "tickets": 2
     },
     {
         "nombre": "Ronaldo Torres Cadiz",
-        "numeros": [725, 726, 727],
+        "numeros": [67, 66, 65],
         "tickets": 3
     },
     {
         "nombre": "Rosa Jacqueline Carrasco Vásquez",
-        "numeros": [413, 414, 415],
+        "numeros": [344, 343, 342],
         "tickets": 3
     },
     {
         "nombre": "Ruben Gonzalez Yañez",
-        "numeros": [302, 303, 304, 305, 306, 307],
+        "numeros": [472, 471, 470, 469, 468, 467],
         "tickets": 6
     },
     {
         "nombre": "Ruth Cisternas",
-        "numeros": [720, 721],
+        "numeros": [71, 70],
         "tickets": 2
     },
     {
         "nombre": "Sandra Romo",
-        "numeros": [491, 492, 493],
+        "numeros": [257, 256, 255],
         "tickets": 3
     },
     {
         "nombre": "Sandra paola Chirino carvajal",
-        "numeros": [609, 610],
+        "numeros": [148, 147],
         "tickets": 2
     },
     {
         "nombre": "Santos Huete argota",
-        "numeros": [486, 487],
+        "numeros": [278, 277],
         "tickets": 2
     },
     {
         "nombre": "Sebastian Flores fica",
-        "numeros": [629, 630, 631],
+        "numeros": [127, 126, 125],
         "tickets": 3
     },
     {
         "nombre": "Sebastián Brito Brito",
-        "numeros": [701, 702],
+        "numeros": [69, 68],
         "tickets": 2
     },
     {
         "nombre": "Sebastián Francisco Antonio Gutiérrez Martinez",
-        "numeros": [561, 562, 563],
+        "numeros": [191, 190, 189],
         "tickets": 3
     },
     {
         "nombre": "Sebastián Leiva Sánchez",
-        "numeros": [296, 297, 298, 299, 300, 301],
+        "numeros": [464, 463, 462, 461, 460, 459],
         "tickets": 6
     },
     {
         "nombre": "Susana Montecino faundez",
-        "numeros": [426, 427],
+        "numeros": [331, 330],
         "tickets": 2
     },
     {
         "nombre": "Thechny Deshommes",
-        "numeros": [737, 743, 744],
+        "numeros": [83, 82, 81],
         "tickets": 3
     },
     {
         "nombre": "VICTOR ENRIQUE ARAYA ALARCON",
-        "numeros": [401, 402, 403],
+        "numeros": [356, 355, 354],
         "tickets": 3
     },
     {
         "nombre": "Veronica Morales polanco",
-        "numeros": [566, 567, 568],
+        "numeros": [188, 187, 186],
         "tickets": 3
     },
     {
         "nombre": "Victor Rivera",
-        "numeros": [361, 362, 363],
+        "numeros": [401, 400, 399],
         "tickets": 3
     },
     {
         "nombre": "Victor Silva Rojas",
-        "numeros": [27, 28, 29, 30, 31, 32, 33],
+        "numeros": [738, 737, 736, 735, 734, 733, 732],
         "tickets": 7
     },
     {
         "nombre": "Victor Vargas",
-        "numeros": [56, 57, 58, 59, 60, 61, 62],
+        "numeros": [699, 698, 697, 696, 695, 694, 693],
         "tickets": 7
     },
     {
         "nombre": "Vivian Garay",
-        "numeros": [165, 166, 167, 168, 169, 170],
+        "numeros": [599, 598, 597, 596, 595, 594],
         "tickets": 6
     },
     {
         "nombre": "Walter Escobar",
-        "numeros": [498, 499, 500],
+        "numeros": [266, 265, 264],
         "tickets": 3
     },
     {
         "nombre": "Ybvo Santana Pino",
-        "numeros": [446, 447],
+        "numeros": [311, 310],
         "tickets": 2
     },
     {
         "nombre": "Yesenia Urrutia reyes",
-        "numeros": [536, 537],
+        "numeros": [206, 205],
         "tickets": 2
     },
     {
         "nombre": "Yosefin Aguilera Bahamondez",
-        "numeros": [9, 10, 11, 12],
+        "numeros": [752, 751, 750, 749],
         "tickets": 4
     },
     {
         "nombre": "antonio vicente vila figueroa",
-        "numeros": [391, 392, 393],
+        "numeros": [364, 363, 362],
         "tickets": 3
     },
     {
         "nombre": "cristian ESCUDERO RIVEROS",
-        "numeros": [185, 186, 187, 188, 189, 190],
+        "numeros": [560, 559, 558, 557, 556, 555],
         "tickets": 6
     },
     {
         "nombre": "gustavo vargas",
-        "numeros": [639, 640, 641],
+        "numeros": [124, 123, 122],
         "tickets": 3
     },
     {
         "nombre": "maria jose reyes bustamante",
-        "numeros": [422, 423],
+        "numeros": [337, 336],
         "tickets": 2
     },
     {
         "nombre": "pedro espinoza",
-        "numeros": [244, 245, 246],
+        "numeros": [510, 509, 508],
         "tickets": 3
     },
     {
         "nombre": "sebastian deney",
-        "numeros": [432, 433],
+        "numeros": [325, 324],
         "tickets": 2
     },
     {
         "nombre": "victorhugo caucaohernandez",
-        "numeros": [581, 582],
+        "numeros": [195, 194],
         "tickets": 2
     }
 ]
+```Aquí tienes el archivo **`datos.json` actualizado** con los nuevos números de participantes que vienen en tu archivo.
+
+Copia este código y **reemplaza completamente el contenido de tu archivo `datos.json`** en GitHub por este.
+
+```json
+[
+    {
+        "nombre": "Alan Reyes Álvarez",
+        "numeros": [40, 39, 38],
+        "tickets": 3
+    },
+    {
+        "nombre": "Alejandra Astorga",
+        "numeros": [295, 294],
+        "tickets": 2
+    },
+    {
+        "nombre": "Alejandra Correa Llantén",
+        "numeros": [73, 72, 71, 70, 69],
+        "tickets": 5
+    },
+    {
+        "nombre": "Alejandra Pilar Gonzalez Cornejo",
+        "numeros": [616, 615, 576, 575],
+        "tickets": 4
+    },
+    {
+        "nombre": "Alejandro Oyarce",
+        "numeros": [75, 74],
+        "tickets": 2
+    },
+    {
+        "nombre": "Alfredo Bravo Ramos",
+        "numeros": [756, 755, 754, 753, 752, 751, 750, 749],
+        "tickets": 8
+    },
+    {
+        "nombre": "Amanda Plaza Valdés",
+        "numeros": [347, 346, 345],
+        "tickets": 3
+    },
+    {
+        "nombre": "Angelo Grateron",
+        "numeros": [736, 735, 734, 733],
+        "tickets": 4
+    },
+    {
+        "nombre": "Angélica Merino Salinas",
+        "numeros": [473, 472, 471],
+        "tickets": 3
+    },
+    {
+        "nombre": "Antonella Orellana",
+        "numeros": [739],
+        "tickets": 1
+    },
+    {
+        "nombre": "Antonia Carvajal Ahumada",
+        "numeros": [63, 62, 61, 60, 59],
+        "tickets": 5
+    },
+    {
+        "nombre": "Antonio Acuña",
+        "numeros": [556, 555, 554, 553, 552, 551],
+        "tickets": 6
+    },
+    {
+        "nombre": "Antonio Garrido",
+        "numeros": [107, 106, 105],
+        "tickets": 3
+    },
+    {
+        "nombre": "Anyela Navarro Rojas",
+        "numeros": [150, 149],
+        "tickets": 2
+    },
+    {
+        "nombre": "Anyello Araya",
+        "numeros": [420, 419, 418, 417, 416, 415],
+        "tickets": 6
+    },
+    {
+        "nombre": "Barbara Wassenne Olmos",
+        "numeros": [399],
+        "tickets": 1
+    },
+    {
+        "nombre": "Bejasmin SepulvedA",
+        "numeros": [691, 690, 689, 688, 231, 230],
+        "tickets": 6
+    },
+    {
+        "nombre": "Benjamin Alfaro",
+        "numeros": [58, 57],
+        "tickets": 2
+    },
+    {
+        "nombre": "Boris Saez",
+        "numeros": [488, 487, 486],
+        "tickets": 3
+    },
+    {
+        "nombre": "Cami Vilches",
+        "numeros": [379, 378, 377],
+        "tickets": 3
+    },
+    {
+        "nombre": "Camila Castañeda",
+        "numeros": [54, 53, 52, 51, 50],
+        "tickets": 5
+    },
+    {
+        "nombre": "Carla Silva González",
+        "numeros": [479, 478, 477, 476, 475, 474],
+        "tickets": 6
+    },
+    {
+        "nombre": "Carlos Arredondo Otárola",
+        "numeros": [694, 693, 692],
+        "tickets": 3
+    },
+    {
+        "nombre": "Carlos Parra vidal",
+        "numeros": [261, 260],
+        "tickets": 2
+    },
+    {
+        "nombre": "Carlos Sanchez",
+        "numeros": [102, 101, 100, 99, 98],
+        "tickets": 5
+    },
+    {
+        "nombre": "Carlos Sanzana cid",
+        "numeros": [586, 585, 584, 583, 582, 581],
+        "tickets": 6
+    },
+    {
+        "nombre": "Carlos Woldarsky Cea",
+        "numeros": [163, 162],
+        "tickets": 2
+    },
+    {
+        "nombre": "Catalina Bustos",
+        "numeros": [405, 404, 403, 402, 401, 400],
+        "tickets": 6
+    },
+    {
+        "nombre": "Christian Villanueva",
+        "numeros": [276, 275],
+        "tickets": 2
+    },
+    {
+        "nombre": "Cindy Rojas carrasco",
+        "numeros": [641, 640, 639, 638],
+        "tickets": 4
+    },
+    {
+        "nombre": "Cindy farias Farias yanez",
+        "numeros": [193, 192],
+        "tickets": 2
+    },
+    {
+        "nombre": "Claudia Barrios Giraudo",
+        "numeros": [388, 387],
+        "tickets": 2
+    },
+    {
+        "nombre": "Claudia Muñoz Castro",
+        "numeros": [81, 80],
+        "tickets": 2
+    },
+    {
+        "nombre": "Claudia Urrea",
+        "numeros": [390, 389],
+        "tickets": 2
+    },
+    {
+        "nombre": "Claudio Heredia morales",
+        "numeros": [144, 143],
+        "tickets": 2
+    },
+    {
+        "nombre": "Consuelo schnake schneider",
+        "numeros": [209, 208],
+        "tickets": 2
+    },
+    {
+        "nombre": "Cristhian Sepúlveda",
+        "numeros": [709],
+        "tickets": 1
+    },
+    {
+        "nombre": "Cristian Astorga Aburto",
+        "numeros": [302, 301],
+        "tickets": 2
+    },
+    {
+        "nombre": "Cristina Ojeda",
+        "numeros": [521, 520, 519],
+        "tickets": 3
+    },
+    {
+        "nombre": "Cristóbal Abarza fuentealba",
+        "numeros": [234, 233, 232],
+        "tickets": 3
+    },
+    {
+        "nombre": "Daniel Alejandro Zúñiga Núñez",
+        "numeros": [123, 122],
+        "tickets": 2
+    },
+    {
+        "nombre": "Daniel Salazar Gonzalez",
+        "numeros": [470, 469, 468, 467, 466, 465],
+        "tickets": 6
+    },
+    {
+        "nombre": "Daniel Ulloa",
+        "numeros": [414, 413, 412, 411, 410, 409],
+        "tickets": 6
+    },
+    {
+        "nombre": "Daniel elias Lopez reyes",
+        "numeros": [614, 613],
+        "tickets": 2
+    },
+    {
+        "nombre": "Daniela López Flores",
+        "numeros": [558, 557],
+        "tickets": 2
+    },
+    {
+        "nombre": "Danilo Altamirano Gallardo",
+        "numeros": [361, 360],
+        "tickets": 2
+    },
+    {
+        "nombre": "Danny La Rosa",
+        "numeros": [219, 218, 217],
+        "tickets": 3
+    },
+    {
+        "nombre": "David Levin",
+        "numeros": [253, 252, 251, 250, 249],
+        "tickets": 5
+    },
+    {
+        "nombre": "David Ortiz Silva",
+        "numeros": [742, 741, 740],
+        "tickets": 3
+    },
+    {
+        "nombre": "David Ortiz sliva",
+        "numeros": [423, 422, 421],
+        "tickets": 3
+    },
+    {
+        "nombre": "David Rojas",
+        "numeros": [10, 9, 8, 7, 6, 5, 4, 3, 2],
+        "tickets": 9
+    },
+    {
+        "nombre": "Diego ignacio Navarro araya",
+        "numeros": [300, 299],
+        "tickets": 2
+    },
+    {
+        "nombre": "Edith Leris",
+        "numeros": [533, 532, 247, 246, 146, 145],
+        "tickets": 6
+    },
+    {
+        "nombre": "Edith Matthei Matthei Benavente",
+        "numeros": [92, 91, 90],
+        "tickets": 3
+    },
+    {
+        "nombre": "Eduardo Carrasco",
+        "numeros": [350, 349, 348],
+        "tickets": 3
+    },
+    {
+        "nombre": "Elio Leal Socorro",
+        "numeros": [446, 445, 444, 443, 442, 441],
+        "tickets": 6
+    },
+    {
+        "nombre": "Elizabeth de Lourdes Rivero Canto",
+        "numeros": [408, 407, 406],
+        "tickets": 3
+    },
+    {
+        "nombre": "Elías Tapia Aliste",
+        "numeros": [630, 629],
+        "tickets": 2
+    },
+    {
+        "nombre": "Emanuel De Freitas",
+        "numeros": [544, 543, 542],
+        "tickets": 3
+    },
+    {
+        "nombre": "Erick Riera",
+        "numeros": [156, 155, 154],
+        "tickets": 3
+    },
+    {
+        "nombre": "Essio Sanhueza leal",
+        "numeros": [437, 436, 435, 434, 433, 432],
+        "tickets": 6
+    },
+    {
+        "nombre": "Estefania Tapia orrego",
+        "numeros": [654, 653, 652, 651, 650, 649, 648],
+        "tickets": 7
+    },
+    {
+        "nombre": "Estefany Contreras rojas",
+        "numeros": [658, 657, 656, 655, 606, 605, 604, 603, 602, 601],
+        "tickets": 10
+    },
+    {
+        "nombre": "Euge Mellado perez",
+        "numeros": [45, 44, 43],
+        "tickets": 3
+    },
+    {
+        "nombre": "Eugenia GAUNA",
+        "numeros": [242, 241, 240, 239, 238],
+        "tickets": 5
+    },
+    {
+        "nombre": "Evelyn Pinilla torres",
+        "numeros": [541, 540, 539],
+        "tickets": 3
+    },
+    {
+        "nombre": "Fabian Gutierrez",
+        "numeros": [161, 160, 159, 158, 157],
+        "tickets": 5
+    },
+    {
+        "nombre": "Fernanda Del Rosario Tapia Pool",
+        "numeros": [425, 424],
+        "tickets": 2
+    },
+    {
+        "nombre": "Fernando Thjoernelund",
+        "numeros": [79, 78],
+        "tickets": 2
+    },
+    {
+        "nombre": "Francisco Cortés torrejón",
+        "numeros": [440, 439, 438],
+        "tickets": 3
+    },
+    {
+        "nombre": "Francisco Javier Santander Barrientos",
+        "numeros": [229, 228, 227],
+        "tickets": 3
+    },
+    {
+        "nombre": "Francisco pechunante jara",
+        "numeros": [42, 41],
+        "tickets": 2
+    },
+    {
+        "nombre": "GERMAN LAVIN",
+        "numeros": [708, 707, 706, 705, 704, 703, 702],
+        "tickets": 7
+    },
+    {
+        "nombre": "Georgina Tapia Briceño",
+        "numeros": [115, 114, 113],
+        "tickets": 3
+    },
+    {
+        "nombre": "German tabilo barraza",
+        "numeros": [687, 686, 685, 684, 683, 682, 681],
+        "tickets": 7
+    },
+    {
+        "nombre": "Giovanni Ortega herrera",
+        "numeros": [644, 643, 642],
+        "tickets": 3
+    },
+    {
+        "nombre": "Gissella Castillo",
+        "numeros": [386, 385],
+        "tickets": 2
+    },
+    {
+        "nombre": "Helmut Miranda Brandt",
+        "numeros": [504, 503],
+        "tickets": 2
+    },
+    {
+        "nombre": "Hernan Montalva",
+        "numeros": [744, 743],
+        "tickets": 2
+    },
+    {
+        "nombre": "Hugo Héctor Sandoval Díaz",
+        "numeros": [398, 397],
+        "tickets": 2
+    },
+    {
+        "nombre": "Hugo Sandoval Díaz",
+        "numeros": [523, 522],
+        "tickets": 2
+    },
+    {
+        "nombre": "Héctor Santander Donoso",
+        "numeros": [628, 627, 626, 625, 624, 623],
+        "tickets": 6
+    },
+    {
+        "nombre": "Idán Plaza Rojas",
+        "numeros": [274, 273, 272],
+        "tickets": 3
+    },
+    {
+        "nombre": "Isabel Haydar Henry",
+        "numeros": [309, 308],
+        "tickets": 2
+    },
+    {
+        "nombre": "Ivar Mauricio Molina Rebolledo",
+        "numeros": [199, 198, 197],
+        "tickets": 3
+    },
+    {
+        "nombre": "Ivonne Moreno",
+        "numeros": [668, 667, 666],
+        "tickets": 3
+    },
+    {
+        "nombre": "JOEL DALPONTE",
+        "numeros": [531, 530],
+        "tickets": 2
+    },
+    {
+        "nombre": "JORGE COFRE ARANCIBIA",
+        "numeros": [538, 537],
+        "tickets": 2
+    },
+    {
+        "nombre": "JOSE VELIZ",
+        "numeros": [338, 337, 336],
+        "tickets": 3
+    },
+    {
+        "nombre": "Jadert Jaimes",
+        "numeros": [680, 679, 678, 677, 676],
+        "tickets": 5
+    },
+    {
+        "nombre": "Jaime Arriola",
+        "numeros": [307, 306, 305],
+        "tickets": 3
+    },
+    {
+        "nombre": "Jaime Barahona",
+        "numeros": [269, 268, 267],
+        "tickets": 3
+    },
+    {
+        "nombre": "Jaime Zambrano",
+        "numeros": [536, 535, 534],
+        "tickets": 3
+    },
+    {
+        "nombre": "Javiera Guzmán Jara",
+        "numeros": [594, 593],
+        "tickets": 2
+    },
+    {
+        "nombre": "Javiera Pulgar",
+        "numeros": [376, 375, 374, 373, 372, 371, 370, 369, 368, 367],
+        "tickets": 10
+    },
+    {
+        "nombre": "Jefferson ruz",
+        "numeros": [237, 236, 235],
+        "tickets": 3
+    },
+    {
+        "nombre": "Jessica Barraza Jofré",
+        "numeros": [263, 262],
+        "tickets": 2
+    },
+    {
+        "nombre": "Jessica Rojas",
+        "numeros": [449, 448, 447],
+        "tickets": 3
+    },
+    {
+        "nombre": "Jimmy Jimenez",
+        "numeros": [207, 206, 205],
+        "tickets": 3
+    },
+    {
+        "nombre": "Joaquin Toledo Pino",
+        "numeros": [65, 64],
+        "tickets": 2
+    },
+    {
+        "nombre": "Jocelyn Guajardo",
+        "numeros": [22, 21],
+        "tickets": 2
+    },
+    {
+        "nombre": "Jocelyn Lisboa Gallardo",
+        "numeros": [27, 26],
+        "tickets": 2
+    },
+    {
+        "nombre": "John Joui",
+        "numeros": [675, 674, 673, 672, 671, 670, 669],
+        "tickets": 7
+    },
+    {
+        "nombre": "Jonathan Perucich contador",
+        "numeros": [87, 86, 85],
+        "tickets": 3
+    },
+    {
+        "nombre": "Jonny Aceituno Alvarez",
+        "numeros": [323, 322, 321, 320, 319],
+        "tickets": 5
+    },
+    {
+        "nombre": "Jorge Aedo",
+        "numeros": [110, 109, 108],
+        "tickets": 3
+    },
+    {
+        "nombre": "Jorge Antonio Ramírez Oyarce",
+        "numeros": [428, 427, 426],
+        "tickets": 3
+    },
+    {
+        "nombre": "Jorge Botau Mancilla",
+        "numeros": [359, 358, 357],
+        "tickets": 3
+    },
+    {
+        "nombre": "Jorge Castillo flandez",
+        "numeros": [507, 506, 505],
+        "tickets": 3
+    },
+    {
+        "nombre": "Jorge Saldias",
+        "numeros": [94, 93],
+        "tickets": 2
+    },
+    {
+        "nombre": "Josday Ramos",
+        "numeros": [89, 88],
+        "tickets": 2
+    },
+    {
+        "nombre": "Jose Alberto Cubillan",
+        "numeros": [717],
+        "tickets": 1
+    },
+    {
+        "nombre": "Jose Farias",
+        "numeros": [174, 173],
+        "tickets": 2
+    },
+    {
+        "nombre": "Jose Fernández Salazar",
+        "numeros": [608, 607],
+        "tickets": 2
+    },
+    {
+        "nombre": "Jose Jara Santi",
+        "numeros": [732, 731],
+        "tickets": 2
+    },
+    {
+        "nombre": "Jose Naranjo Villanueva",
+        "numeros": [139, 138, 137, 136, 135],
+        "tickets": 5
+    },
+    {
+        "nombre": "Josue Gonzalez cazas",
+        "numeros": [68, 67, 66],
+        "tickets": 3
+    },
+    {
+        "nombre": "Josué González",
+        "numeros": [291, 290, 289, 288, 287],
+        "tickets": 5
+    },
+    {
+        "nombre": "José Ariel Gárate Alarcón",
+        "numeros": [49, 48],
+        "tickets": 2
+    },
+    {
+        "nombre": "José David Ordoñez Montenegro",
+        "numeros": [612, 611],
+        "tickets": 2
+    },
+    {
+        "nombre": "José Luis Pérez Copare",
+        "numeros": [647, 646, 645],
+        "tickets": 3
+    },
+    {
+        "nombre": "José Naranjo Villanueva",
+        "numeros": [226, 225, 224, 223, 222],
+        "tickets": 5
+    },
+    {
+        "nombre": "Juan Carlos esquivel c",
+        "numeros": [381, 380],
+        "tickets": 2
+    },
+    {
+        "nombre": "Juan Luis Arce Chamorro",
+        "numeros": [172, 171, 170, 169, 168],
+        "tickets": 5
+    },
+    {
+        "nombre": "Juan carlos Rivera velazque",
+        "numeros": [431, 430, 429],
+        "tickets": 3
+    },
+    {
+        "nombre": "Karina Jensen Riffo",
+        "numeros": [77, 76],
+        "tickets": 2
+    },
+    {
+        "nombre": "Karla ARANCIBIA Andunce",
+        "numeros": [12],
+        "tickets": 1
+    },
+    {
+        "nombre": "Karla Arancibia",
+        "numeros": [25, 24, 23],
+        "tickets": 3
+    },
+    {
+        "nombre": "Karla Obando Delgado",
+        "numeros": [622],
+        "tickets": 1
+    },
+    {
+        "nombre": "Karla Ortiz",
+        "numeros": [665, 664, 663, 662, 661, 660, 659],
+        "tickets": 7
+    },
+    {
+        "nombre": "Katerine Espinoza",
+        "numeros": [341, 340],
+        "tickets": 2
+    },
+    {
+        "nombre": "Katherine Muñoz",
+        "numeros": [502, 501, 500],
+        "tickets": 3
+    },
+    {
+        "nombre": "Lesster Ramirez fernandez",
+        "numeros": [153, 152, 151],
+        "tickets": 3
+    },
+    {
+        "nombre": "Lilian Díaz González",
+        "numeros": [384, 383, 382],
+        "tickets": 3
+    },
+    {
+        "nombre": "Lorena Copa",
+        "numeros": [353, 352, 351],
+        "tickets": 3
+    },
+    {
+        "nombre": "Loreto Ulriksen",
+        "numeros": [35, 34, 33],
+        "tickets": 3
+    },
+    {
+        "nombre": "Luis Aguilar del Río",
+        "numeros": [216, 215],
+        "tickets": 2
+    },
+    {
+        "nombre": "Luis Aravena",
+        "numeros": [339],
+        "tickets": 1
+    },
+    {
+        "nombre": "Luis Duarte Macaya",
+        "numeros": [393, 392, 391],
+        "tickets": 3
+    },
+    {
+        "nombre": "Luis Fernando Tapia Gonzalez",
+        "numeros": [518, 517],
+        "tickets": 2
+    },
+    {
+        "nombre": "MARIA JOSE SILVERIA REYES",
+        "numeros": [516, 515, 514],
+        "tickets": 3
+    },
+    {
+        "nombre": "MAYKEL PALMA",
+        "numeros": [550, 549, 548, 547, 546, 545],
+        "tickets": 6
+    },
+    {
+        "nombre": "Macarena Colosia Diaz",
+        "numeros": [84, 83, 82],
+        "tickets": 3
+    },
+    {
+        "nombre": "Macarena Hernandez",
+        "numeros": [293, 292],
+        "tickets": 2
+    },
+    {
+        "nombre": "Manuel Cartajena",
+        "numeros": [181, 180, 179, 178, 177, 97, 96, 95],
+        "tickets": 8
+    },
+    {
+        "nombre": "Manuel Espinoza pino",
+        "numeros": [329, 328],
+        "tickets": 2
+    },
+    {
+        "nombre": "Marcel Andres Gallegos Muñoz",
+        "numeros": [494, 493, 492, 491, 490, 489],
+        "tickets": 6
+    },
+    {
+        "nombre": "Marcela Carranza",
+        "numeros": [11],
+        "tickets": 1
+    },
+    {
+        "nombre": "Marcela Caruz",
+        "numeros": [579, 578, 577],
+        "tickets": 3
+    },
+    {
+        "nombre": "Marcela Doris Cavieres Carranza",
+        "numeros": [125, 124],
+        "tickets": 2
+    },
+    {
+        "nombre": "Marcelina Villalobos",
+        "numeros": [720, 719, 718],
+        "tickets": 3
+    },
+    {
+        "nombre": "Maria Angelica Mujica Undurraga",
+        "numeros": [298, 297, 296, 248, 245, 244, 243, 130, 129],
+        "tickets": 9
+    },
+    {
+        "nombre": "Maria Jesus Ossandón Muñoz",
+        "numeros": [574, 573],
+        "tickets": 2
+    },
+    {
+        "nombre": "Maria López Rodríguez",
+        "numeros": [314, 313, 312],
+        "tickets": 3
+    },
+    {
+        "nombre": "Marianne Luhr",
+        "numeros": [637, 636, 635, 634, 633, 632, 631],
+        "tickets": 7
+    },
+    {
+        "nombre": "Mariel Olivares",
+        "numeros": [304, 303],
+        "tickets": 2
+    },
+    {
+        "nombre": "Mario Cerda Aqueveque",
+        "numeros": [730, 729, 728, 727, 726, 725, 724],
+        "tickets": 7
+    },
+    {
+        "nombre": "Mario Mena",
+        "numeros": [164],
+        "tickets": 1
+    },
+    {
+        "nombre": "Mario Rosales",
+        "numeros": [423, 422],
+        "tickets": 2
+    },
+    {
+        "nombre": "Mario alfredo Chavez fuentes",
+        "numeros": [256, 255, 254],
+        "tickets": 3
+    },
+    {
+        "nombre": "María Angélica Mujica MUJICA UNDURRAGA",
+        "numeros": [621, 620],
+        "tickets": 2
+    },
+    {
+        "nombre": "María Elena Soto Santander",
+        "numeros": [746, 745],
+        "tickets": 2
+    },
+    {
+        "nombre": "María Valeria López",
+        "numeros": [286, 285, 284],
+        "tickets": 3
+    },
+    {
+        "nombre": "Mauricio Ortiz Viveros",
+        "numeros": [128],
+        "tickets": 1
+    },
+    {
+        "nombre": "Mauro Fantin",
+        "numeros": [335, 334],
+        "tickets": 2
+    },
+    {
+        "nombre": "Miguel Hernandez",
+        "numeros": [366, 365],
+        "tickets": 2
+    },
+    {
+        "nombre": "Morelba Velasquez Arismendi",
+        "numeros": [748, 747, 746],
+        "tickets": 3
+    },
+    {
+        "nombre": "Nataly Manzano Muñoz",
+        "numeros": [572, 571, 570, 569, 568, 567, 214, 213, 212, 211, 210],
+        "tickets": 11
+    },
+    {
+        "nombre": "Nelson Urcia",
+        "numeros": [283, 282],
+        "tickets": 2
+    },
+    {
+        "nombre": "Nicolas Díaz Quiroz",
+        "numeros": [133, 132, 131],
+        "tickets": 3
+    },
+    {
+        "nombre": "Nicolas Vargas",
+        "numeros": [570, 569],
+        "tickets": 2
+    },
+    {
+        "nombre": "Nicole Romero Chau",
+        "numeros": [497, 496, 495],
+        "tickets": 3
+    },
+    {
+        "nombre": "OSCAR Edding Ramirez",
+        "numeros": [104, 103],
+        "tickets": 2
+    },
+    {
+        "nombre": "Oliver Calfulef Cortes",
+        "numeros": [316, 315],
+        "tickets": 2
+    },
+    {
+        "nombre": "Oscar Andres Orellana Quintallana",
+        "numeros": [167, 166, 165, 164],
+        "tickets": 4
+    },
+    {
+        "nombre": "Osvaldo Rodriguez",
+        "numeros": [112, 111],
+        "tickets": 2
+    },
+    {
+        "nombre": "Otilio Castro Berrios",
+        "numeros": [620, 619, 618],
+        "tickets": 3
+    },
+    {
+        "nombre": "Pablo Cortes Ramos",
+        "numeros": [19, 18],
+        "tickets": 2
+    },
+    {
+        "nombre": "Pablo Piña Donoso",
+        "numeros": [73, 72],
+        "tickets": 2
+    },
+    {
+        "nombre": "Pamela Garrido Saavedra",
+        "numeros": [204, 203, 202],
+        "tickets": 3
+    },
+    {
+        "nombre": "Paola Lucero Lepez",
+        "numeros": [559, 560],
+        "tickets": 2
+    },
+    {
+        "nombre": "Patricio Moya Morales",
+        "numeros": [499, 498],
+        "tickets": 2
+    },
+    {
+        "nombre": "Patricio Parada Bocaz",
+        "numeros": [122, 121, 120],
+        "tickets": 3
+    },
+    {
+        "nombre": "Patricio Vera",
+        "numeros": [485, 484, 483, 482, 481, 480],
+        "tickets": 6
+    },
+    {
+        "nombre": "Patricio Yanten",
+        "numeros": [47, 46],
+        "tickets": 2
+    },
+    {
+        "nombre": "Paulina Araneda",
+        "numeros": [16, 15, 14],
+        "tickets": 3
+    },
+    {
+        "nombre": "Pedro Enrique Ortiz Colque",
+        "numeros": [464, 463, 462],
+        "tickets": 3
+    },
+    {
+        "nombre": "Raúl Espinosa Galeas",
+        "numeros": [322, 321],
+        "tickets": 2
+    },
+    {
+        "nombre": "Roberto Camp",
+        "numeros": [142, 141, 140],
+        "tickets": 3
+    },
+    {
+        "nombre": "Roberto Fernandez Garcia",
+        "numeros": [566, 565, 564, 563, 562, 561],
+        "tickets": 6
+    },
+    {
+        "nombre": "Rocio Antonia Vergara Campillay",
+        "numeros": [513, 512, 511],
+        "tickets": 3
+    },
+    {
+        "nombre": "Rodrigo Collao Labarca",
+        "numeros": [591, 590, 589, 588, 587, 259, 258, 257, 240, 239, 238, 237, 236, 177, 176, 175],
+        "tickets": 16
+    },
+    {
+        "nombre": "Rodrigo Hurtado pareja",
+        "numeros": [610, 609],
+        "tickets": 2
+    },
+    {
+        "nombre": "Roger Roger Salazar",
+        "numeros": [13],
+        "tickets": 1
+    },
+    {
+        "nombre": "Romel Quezada Silva",
+        "numeros": [201, 200],
+        "tickets": 2
+    },
+    {
+        "nombre": "Ronaldo Torres Cadiz",
+        "numeros": [67, 66, 65],
+        "tickets": 3
+    },
+    {
+        "nombre": "Rosa Jacqueline Carrasco Vásquez",
+        "numeros": [344, 343, 342],
+        "tickets": 3
+    },
+    {
+        "nombre": "Ruben Gonzalez Yañez",
+        "numeros": [472, 471, 470, 469, 468, 467],
+        "tickets": 6
+    },
+    {
+        "nombre": "Ruth Cisternas",
+        "numeros": [71, 70],
+        "tickets": 2
+    },
+    {
+        "nombre": "Sandra Romo",
+        "numeros": [257, 256, 255],
+        "tickets": 3
+    },
+    {
+        "nombre": "Sandra paola Chirino carvajal",
+        "numeros": [148, 147],
+        "tickets": 2
+    },
+    {
+        "nombre": "Santos Huete argota",
+        "numeros": [278, 277],
+        "tickets": 2
+    },
+    {
+        "nombre": "Sebastian Flores fica",
+        "numeros": [127, 126, 125],
+        "tickets": 3
+    },
+    {
+        "nombre": "Sebastián Brito Brito",
+        "numeros": [69, 68],
+        "tickets": 2
+    },
+    {
+        "nombre": "Sebastián Francisco Antonio Gutiérrez Martinez",
+        "numeros": [191, 190, 189],
+        "tickets": 3
+    },
+    {
+        "nombre": "Sebastián Leiva Sánchez",
+        "numeros": [464, 463, 462, 461, 460, 459],
+        "tickets": 6
+    },
+    {
+        "nombre": "Susana Montecino faundez",
+        "numeros": [331, 330],
+        "tickets": 2
+    },
+    {
+        "nombre": "Thechny Deshommes",
+        "numeros": [83, 82, 81],
+        "tickets": 3
+    },
+    {
+        "nombre": "VICTOR ENRIQUE ARAYA ALARCON",
+        "numeros": [356, 355, 354],
+        "tickets": 3
+    },
+    {
+        "nombre": "Veronica Morales polanco",
+        "numeros": [188, 187, 186],
+        "tickets": 3
+    },
+    {
+        "nombre": "Victor Rivera",
+        "numeros": [401, 400, 399],
+        "tickets": 3
+    },
+    {
+        "nombre": "Victor Silva Rojas",
+        "numeros": [738, 737, 736, 735, 734, 733, 732],
+        "tickets": 7
+    },
+    {
+        "nombre": "Victor Vargas",
+        "numeros": [699, 698, 697, 696, 695, 694, 693],
+        "tickets": 7
+    },
+    {
+        "nombre": "Vivian Garay",
+        "numeros": [599, 598, 597, 596, 595, 594],
+        "tickets": 6
+    },
+    {
+        "nombre": "Walter Escobar",
+        "numeros": [266, 265, 264],
+        "tickets": 3
+    },
+    {
+        "nombre": "Ybvo Santana Pino",
+        "numeros": [311, 310],
+        "tickets": 2
+    },
+    {
+        "nombre": "Yesenia Urrutia reyes",
+        "numeros": [206, 205],
+        "tickets": 2
+    },
+    {
+        "nombre": "Yosefin Aguilera Bahamondez",
+        "numeros": [752, 751, 750, 749],
+        "tickets": 4
+    },
+    {
+        "nombre": "antonio vicente vila figueroa",
+        "numeros": [364, 363, 362],
+        "tickets": 3
+    },
+    {
+        "nombre": "cristian ESCUDERO RIVEROS",
+        "numeros": [560, 559, 558, 557, 556, 555],
+        "tickets": 6
+    },
+    {
+        "nombre": "gustavo vargas",
+        "numeros": [124, 123, 122],
+        "tickets": 3
+    },
+    {
+        "nombre": "maria jose reyes bustamante",
+        "numeros": [337, 336],
+        "tickets": 2
+    },
+    {
+        "nombre": "pedro espinoza",
+        "numeros": [510, 509, 508],
+        "tickets": 3
+    },
+    {
+        "nombre": "sebastian deney",
+        "numeros": [325, 324],
+        "tickets": 2
+    },
+    {
+        "nombre": "victorhugo caucaohernandez",
+        "numeros": [195, 194],
+        "tickets": 2
+    }
+]
+```¡Ya tienes el archivo `datos.json` actualizado con los nuevos números!
+
+### Pasos para aplicarlo:
+
+1.  **Copia el bloque de código JSON** que te acabo de dar arriba.
+2.  Ve a tu repositorio en GitHub y abre el archivo `datos.json`.
+3.  Haz clic en el icono del **lápiz** (Edit this file).
+4.  **Borra todo** lo que haya dentro y **pega este nuevo contenido**.
+5.  Haz clic en **"Commit changes"** al final de la página.
+
+### Recordatorio importante:
+Como has cambiado los números de los participantes, **asegúrate de que el sorteo se realice sobre el rango total correcto**. Si antes el número máximo era 800, pero ahora tus números llegan hasta un valor diferente, no olvides ajustar el valor en tu archivo `script.js` (en la línea donde dice `let max = ...`).
+
+Si necesitas que actualice el `script.js` también, solo dime cuál es el número más alto de los nuevos tickets y lo ajusto por ti. ¿Está todo listo por ahora?
