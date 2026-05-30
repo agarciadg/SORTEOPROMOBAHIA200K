@@ -1,0 +1,5 @@
+body { font-family: sans-serif; background: #0b0b45; color: white; text-align: center; }
+#logo { width: 200px; }
+button { background: #ffcc00; color: #0b0b45; padding: 15px 30px; font-weight: bold; border: none; cursor: pointer; }
+table { width: 80%; margin: 20px auto; border-collapse: collapse; background: white; color: black; }
+th, td { border: 1px solid #ddd; padding: 10px; }
